@@ -6,6 +6,9 @@ pyshop
 .. image:: https://travis-ci.org/mardiros/pyshop.png?branch=master
    :target: https://travis-ci.org/mardiros/pyshop
 
+.. image:: https://coveralls.io/repos/EvaSDK/pyshop/badge.png?branch=master
+  :target: https://coveralls.io/r/EvaSDK/pyshop?branch=master
+
 Getting Started
 ===============
 

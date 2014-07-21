@@ -2,7 +2,16 @@
 
 [run]
 branch = True
-omit = */tests/*
+omit =
+    */tests/*
+    */migration/*
 
 [report]
-omit = */tests/*
+omit =
+    */tests/*
+    */migration/*
+
+[report]
+exclude_lines =
+    pragma: no cover
+    if __name__ == .__main__.:
